@@ -2852,6 +2852,12 @@
   {
     "uf": "MA",
     "municipio": "SÃO LUÍS",
+    "escolas": "SECRETARIA DA EDUCAÇÃO/REGIONAL",
+    "regional": null
+  },
+  {
+    "uf": "MA",
+    "municipio": "SÃO LUÍS",
     "escolas": "UP BACELAR PORTELA",
     "regional": null
   },
