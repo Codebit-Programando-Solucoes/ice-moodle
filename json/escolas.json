@@ -2810,6 +2810,12 @@
   {
     "uf": "MA",
     "municipio": "SÃO LUÍS",
+    "escolas": "CENTRO EDUCA MAIS PROFª JOANA BATISTA SANTOS SILVA",
+    "regional": null
+  },
+  {
+    "uf": "MA",
+    "municipio": "SÃO LUÍS",
     "escolas": "CENTRO EDUCA MAIS PROFESSOR IGNACIO RANGEL",
     "regional": null
   },
@@ -2835,12 +2841,6 @@
     "uf": "MA",
     "municipio": "SÃO LUÍS",
     "escolas": "CENTRO EDUCA MAIS PROFESSORA MARIA PINHO",
-    "regional": null
-  },
-  {
-    "uf": "MA",
-    "municipio": "SÃO LUÍS",
-    "escolas": "CENTRO EDUCA MAIS PROFª JOANA BATISTA SANTOS SILVA",
     "regional": null
   },
   {
@@ -10580,12 +10580,6 @@
   {
     "uf": "MS",
     "municipio": "CAMPO GRANDE",
-    "escolas": "EE PROFA. THEREZA NORONHA DE CARVALHO",
-    "regional": null
-  },
-  {
-    "uf": "MS",
-    "municipio": "CAMPO GRANDE",
     "escolas": "EE PROFª BRASILINA FERRAZ MANTERO",
     "regional": null
   },
@@ -10599,6 +10593,12 @@
     "uf": "MS",
     "municipio": "CAMPO GRANDE",
     "escolas": "EE PROFª. CLARINDA MENDES DE AQUINO",
+    "regional": null
+  },
+  {
+    "uf": "MS",
+    "municipio": "CAMPO GRANDE",
+    "escolas": "EE PROFA. THEREZA NORONHA DE CARVALHO",
     "regional": null
   },
   {
@@ -11072,7 +11072,7 @@
   {
     "uf": "MT",
     "municipio": "ÁGUA BOA",
-    "escolas": "ESCOLA ESTADUAL JARAGUÁ",
+    "escolas": "EE JARAGUÁ",
     "regional": "DRE BARRA DO GARCAS"
   },
   {
@@ -11080,6 +11080,12 @@
     "municipio": "ÁGUA BOA",
     "escolas": "SECRETARIA DA EDUCAÇÃO/REGIONAL",
     "regional": null
+  },
+  {
+    "uf": "MT",
+    "municipio": "ALTA FLORESTA",
+    "escolas": "EE 19 DE MAIO",
+    "regional": "DRE ALTA FLORESTA"
   },
   {
     "uf": "MT",
@@ -11120,7 +11126,7 @@
   {
     "uf": "MT",
     "municipio": "ALTO GARÇAS",
-    "escolas": "EE DEP. OSCAR SOARES",
+    "escolas": "EE DEPUTADO OSCAR SOARES",
     "regional": "DRE RONDONOPOLIS"
   },
   {
@@ -11149,7 +11155,7 @@
   },
   {
     "uf": "MT",
-    "municipio": "APIACÁS",
+    "municipio": "APIACAS",
     "escolas": "EE PORTAL DA AMAZÔNIA",
     "regional": "DRE ALTA FLORESTA"
   },
@@ -11162,14 +11168,8 @@
   {
     "uf": "MT",
     "municipio": "ARAPUTANGA",
-    "escolas": "EE PRES TANCREDO DE A NEVES",
+    "escolas": "EE PRES TANCREDO DE ALMEIDA NEVES",
     "regional": "DRE CACERES"
-  },
-  {
-    "uf": "MT",
-    "municipio": "ARAPUTANGA",
-    "escolas": "EE. JOAO SATO",
-    "regional": null
   },
   {
     "uf": "MT",
@@ -11210,7 +11210,7 @@
   {
     "uf": "MT",
     "municipio": "BARÃO DE MELGAÇO",
-    "escolas": "EE CEL ANTONIO PAES DE BARROS",
+    "escolas": "EE CEL. ANTONIO PAIS DE BARROS",
     "regional": "DRE METROPOLITANA"
   },
   {
@@ -11222,13 +11222,7 @@
   {
     "uf": "MT",
     "municipio": "BARRA DO BUGRES",
-    "escolas": "EE ALFREDO JOSE DA SILVA",
-    "regional": "DRE TANGARA DA SERRA"
-  },
-  {
-    "uf": "MT",
-    "municipio": "BARRA DO BUGRES",
-    "escolas": "EE INDIGENA JULA PARE",
+    "escolas": "EE ALFREDO JOSÉ DA SILVA",
     "regional": "DRE TANGARA DA SERRA"
   },
   {
@@ -11245,6 +11239,12 @@
   },
   {
     "uf": "MT",
+    "municipio": "BARRA DO BUGRES",
+    "escolas": "EEI JULA PARE",
+    "regional": "DRE TANGARA DA SERRA"
+  },
+  {
+    "uf": "MT",
     "municipio": "BARRA DO GARÇAS",
     "escolas": "EE EURICO GASPAR DUTRA",
     "regional": "DRE BARRA DO GARCAS"
@@ -11252,14 +11252,8 @@
   {
     "uf": "MT",
     "municipio": "BARRA DO GARÇAS",
-    "escolas": "EE IR. DIVA PIMENTEL",
+    "escolas": "EE IRMA DIVA PIMENTEL",
     "regional": "DRE BARRA DO GARCAS"
-  },
-  {
-    "uf": "MT",
-    "municipio": "BARRA DO GARÇAS",
-    "escolas": "EE MAL. EURICO GASPAR DUTRA",
-    "regional": null
   },
   {
     "uf": "MT",
@@ -11288,7 +11282,7 @@
   {
     "uf": "MT",
     "municipio": "CÁCERES",
-    "escolas": "EE PROFESSOR DEMETRIO COSTA PEREIRA",
+    "escolas": "EE PROF. DEMETRIO COSTA PEREIRA",
     "regional": "DRE CACERES"
   },
   {
@@ -11300,7 +11294,7 @@
   {
     "uf": "MT",
     "municipio": "CAMPO NOVO DO PARECIS",
-    "escolas": "EE PADRE ARLINDO IGNACIO DE OLIVEIRA",
+    "escolas": "EE PADRE ARLINDO IGNÁCIO DE OLIVEIRA",
     "regional": "DRE TANGARA DA SERRA"
   },
   {
@@ -11378,14 +11372,8 @@
   {
     "uf": "MT",
     "municipio": "CUIABÁ",
-    "escolas": "C.E.A.A.D.A. PROFª ARLETE P. MIGUELETTI",
+    "escolas": "CEAADA PROF ARLETE PEREIRA MIGUELETTI",
     "regional": "DRE METROPOLITANA"
-  },
-  {
-    "uf": "MT",
-    "municipio": "CUIABÁ",
-    "escolas": "EE  DJALMA FERREIRA DE SOUZA",
-    "regional": null
   },
   {
     "uf": "MT",
@@ -11420,19 +11408,13 @@
   {
     "uf": "MT",
     "municipio": "CUIABÁ",
-    "escolas": "EE GOVERNADOR JOSE FRAGELLI",
-    "regional": null
-  },
-  {
-    "uf": "MT",
-    "municipio": "CUIABÁ",
     "escolas": "EE JOAQUINA CERQUEIRA CALDAS",
     "regional": "DRE METROPOLITANA"
   },
   {
     "uf": "MT",
     "municipio": "CUIABÁ",
-    "escolas": "EE JOSE BARNABE DE MESQUITA",
+    "escolas": "EE JOSE BARNABÉ DE MESQUITA",
     "regional": "DRE METROPOLITANA"
   },
   {
@@ -11445,6 +11427,12 @@
     "uf": "MT",
     "municipio": "CUIABÁ",
     "escolas": "EE PADRE JOAO PANAROTTO",
+    "regional": "DRE METROPOLITANA"
+  },
+  {
+    "uf": "MT",
+    "municipio": "CUIABÁ",
+    "escolas": "EE PROF ALICE FONTES PINHEIRO",
     "regional": "DRE METROPOLITANA"
   },
   {
@@ -11623,7 +11611,7 @@
   },
   {
     "uf": "MT",
-    "municipio": "MATUPÁ",
+    "municipio": "MATUPA",
     "escolas": "EE ANTONIO OMETTO",
     "regional": "DRE MATUPA"
   },
@@ -11642,19 +11630,25 @@
   {
     "uf": "MT",
     "municipio": "MIRASSOL D'OESTE",
+    "escolas": "EE PADRE JOSE DE ANCHIETA",
+    "regional": "DRE CACERES"
+  },
+  {
+    "uf": "MT",
+    "municipio": "MIRASSOL D'OESTE",
     "escolas": "SECRETARIA DA EDUCAÇÃO/REGIONAL",
     "regional": null
   },
   {
     "uf": "MT",
     "municipio": "NOBRES",
-    "escolas": "EE DR. FABIO SILVERIO FARIAS",
+    "escolas": "EE DR FABIO SILVERIO DE FARIAS",
     "regional": "DRE DIAMANTINO"
   },
   {
     "uf": "MT",
     "municipio": "NORTELÂNDIA",
-    "escolas": "EE DESEMB. OLEGARIO MOREIRA DE BARROS",
+    "escolas": "EE DESEMBARGADOR OLEGARIO MOREIRA DE BARROS",
     "regional": "DRE DIAMANTINO"
   },
   {
@@ -11672,18 +11666,18 @@
   {
     "uf": "MT",
     "municipio": "NOVA OLÍMPIA",
-    "escolas": "E E REINALDO DUTRA VILARINHO",
-    "regional": "DRE TANGARA DA SERRA"
-  },
-  {
-    "uf": "MT",
-    "municipio": "NOVA OLÍMPIA",
     "escolas": "EE JOAO MONTEIRO SOBRINHO",
     "regional": "DRE TANGARA DA SERRA"
   },
   {
     "uf": "MT",
-    "municipio": "PARANAÍTA",
+    "municipio": "NOVA OLÍMPIA",
+    "escolas": "EE REINALDO DUTRA VILARINHO",
+    "regional": "DRE TANGARA DA SERRA"
+  },
+  {
+    "uf": "MT",
+    "municipio": "PARANAITA",
     "escolas": "EE JOAO PAULO I",
     "regional": "DRE ALTA FLORESTA"
   },
@@ -11696,7 +11690,7 @@
   {
     "uf": "MT",
     "municipio": "PARANATINGA",
-    "escolas": "EE INDIGENA KURA BAKAIRI",
+    "escolas": "EE INDIGENA KURÂ-BAKAIRI",
     "regional": "DRE PRIMAVERA DO LESTE"
   },
   {
@@ -11713,14 +11707,8 @@
   },
   {
     "uf": "MT",
-    "municipio": "PEIXOTO DE AZEVEDO",
-    "escolas": "EE VINICIUS DE MORAES",
-    "regional": "DRE RONDONOPOLIS"
-  },
-  {
-    "uf": "MT",
     "municipio": "POCONÉ",
-    "escolas": "EE BEL. RIBEIRO DE ARRUDA",
+    "escolas": "EE BACHAREL RIBEIRO DE ARRUDA",
     "regional": "DRE METROPOLITANA"
   },
   {
@@ -11731,7 +11719,7 @@
   },
   {
     "uf": "MT",
-    "municipio": "POXORÉU",
+    "municipio": "POXOREU",
     "escolas": "EE PE CESAR ALBISETTI",
     "regional": "DRE PRIMAVERA DO LESTE"
   },
@@ -11798,68 +11786,50 @@
   {
     "uf": "MT",
     "municipio": "RONDONÓPOLIS",
-    "escolas": "EE. ADOLFO AUGUSTO DE MORAES",
-    "regional": null
-  },
-  {
-    "uf": "MT",
-    "municipio": "RONDONÓPOLIS",
-    "escolas": "EE. SILVESTRE GOMES JARDIM",
-    "regional": null
-  },
-  {
-    "uf": "MT",
-    "municipio": "RONDONÓPOLIS",
     "escolas": "SECRETARIA DA EDUCAÇÃO/REGIONAL",
     "regional": null
   },
   {
     "uf": "MT",
-    "municipio": "ROSÁRIO OESTE",
+    "municipio": "ROSARIO OESTE",
     "escolas": "EE PROFESSORA ELIZABET EVANGELISTA PEREIRA",
     "regional": "DRE DIAMANTINO"
   },
   {
     "uf": "MT",
-    "municipio": "SANTO ANTÔNIO DO LEVERGER",
+    "municipio": "SANTO ANTONIO DO LEVERGER",
     "escolas": "EE MARIA DE ARRUDA MULLER",
     "regional": "DRE METROPOLITANA"
   },
   {
     "uf": "MT",
-    "municipio": "SANTO ANTÔNIO DO LEVERGER",
+    "municipio": "SANTO ANTONIO DO LEVERGER",
     "escolas": "EE NAGIB SAAD",
     "regional": "DRE METROPOLITANA"
   },
   {
     "uf": "MT",
-    "municipio": "SANTO ANTÔNIO DO LEVERGER",
+    "municipio": "SANTO ANTONIO DO LEVERGER",
     "escolas": "EE SANTA CLAUDINA",
     "regional": "DRE METROPOLITANA"
   },
   {
     "uf": "MT",
     "municipio": "SÃO FÉLIX DO ARAGUAIA",
-    "escolas": "EE PRES. TANCREDO DE A. NEVES",
+    "escolas": "EE PRESID. TANCREDO DE ALMEIDA NEVES",
     "regional": "DRE CONFRESA"
   },
   {
     "uf": "MT",
-    "municipio": "SÃO JOSÉ DO RIO CLARO",
+    "municipio": "SAO JOSE DO RIO CLARO",
     "escolas": "EE SAO JOSE DO RIO CLARO",
     "regional": "DRE DIAMANTINO"
   },
   {
     "uf": "MT",
-    "municipio": "SÃO JOSÉ DO XINGU",
+    "municipio": "SAO JOSE DO XINGU",
     "escolas": "EE CINCO DE ABRIL",
     "regional": "DRE CONFRESA"
-  },
-  {
-    "uf": "MT",
-    "municipio": "SÃO JOSÉ DOS QUATRO MARCOS",
-    "escolas": "EE DEP BERTOLDO FREIRE",
-    "regional": null
   },
   {
     "uf": "MT",
@@ -11900,12 +11870,6 @@
   {
     "uf": "MT",
     "municipio": "TANGARÁ DA SERRA",
-    "escolas": "EE RAMON SANCHES MARQUES",
-    "regional": null
-  },
-  {
-    "uf": "MT",
-    "municipio": "TANGARÁ DA SERRA",
     "escolas": "EE VEREADOR RAMON SANCHES MARQUES",
     "regional": "DRE TANGARA DA SERRA"
   },
@@ -11924,7 +11888,7 @@
   {
     "uf": "MT",
     "municipio": "VÁRZEA GRANDE",
-    "escolas": "EE GONÇALO BOTELHO DE CAMPOS",
+    "escolas": "EE DEPUTADO GONCALO BOTELHO DE CAMPOS",
     "regional": "DRE METROPOLITANA"
   },
   {
@@ -11942,13 +11906,19 @@
   {
     "uf": "MT",
     "municipio": "VÁRZEA GRANDE",
+    "escolas": "EE PROF JOSE MENDES MARTINS",
+    "regional": "DRE METROPOLITANA"
+  },
+  {
+    "uf": "MT",
+    "municipio": "VÁRZEA GRANDE",
     "escolas": "EE PROF. HONORIO RODRIGUES AMORIM",
     "regional": "DRE METROPOLITANA"
   },
   {
     "uf": "MT",
     "municipio": "VÁRZEA GRANDE",
-    "escolas": "EE PROF. MARIA MACEDO RODRIGUES",
+    "escolas": "EE PROF. MARIA DE MACEDO RODRIGUES",
     "regional": "DRE METROPOLITANA"
   },
   {
@@ -12056,6 +12026,18 @@
   {
     "uf": "PA",
     "municipio": "ANANINDEUA",
+    "escolas": "EE ONEIDE DE SOUZA TAVARES",
+    "regional": "DRE - ANANINDEUA 2 "
+  },
+  {
+    "uf": "PA",
+    "municipio": "ANANINDEUA",
+    "escolas": "EE PROF. ANTONIO GONDIM LINS",
+    "regional": "DRE - ANANINDEUA 2 "
+  },
+  {
+    "uf": "PA",
+    "municipio": "ANANINDEUA",
     "escolas": "EEEF ANTONIO BEZERRA FALCAO",
     "regional": "DRE - ANANINDEUA 5"
   },
@@ -12142,18 +12124,6 @@
     "municipio": "ANANINDEUA",
     "escolas": "EEEFM RAIMUNDO VERA CRUZ",
     "regional": "DRE - ANANINDEUA 1"
-  },
-  {
-    "uf": "PA",
-    "municipio": "ANANINDEUA",
-    "escolas": "EE PROF. ANTONIO GONDIM LINS",
-    "regional": "DRE - ANANINDEUA 2 "
-  },
-  {
-    "uf": "PA",
-    "municipio": "ANANINDEUA",
-    "escolas": "EE ONEIDE DE SOUZA TAVARES",
-    "regional": "DRE - ANANINDEUA 2 "
   },
   {
     "uf": "PA",
@@ -12296,14 +12266,14 @@
   {
     "uf": "PA",
     "municipio": "BELÉM",
-    "escolas": "EEEFM AUGUSTO OLIMPIO",
-    "regional": "DRE - BELEM 5"
+    "escolas": "EEEFM AUGUSTO MONTENEGRO",
+    "regional": "DRE - BELEM 4"
   },
   {
     "uf": "PA",
     "municipio": "BELÉM",
-    "escolas": "EEEFM AUGUSTO MONTENEGRO",
-    "regional": "DRE - BELEM 4"
+    "escolas": "EEEFM AUGUSTO OLIMPIO",
+    "regional": "DRE - BELEM 5"
   },
   {
     "uf": "PA",
@@ -12506,6 +12476,12 @@
   {
     "uf": "PA",
     "municipio": "BELÉM",
+    "escolas": "EEEIF PROF ANTONIO GOMES MOREIRA JUNIOR",
+    "regional": "DRE - BELEM 1"
+  },
+  {
+    "uf": "PA",
+    "municipio": "BELÉM",
     "escolas": "EEEIF PROFA EMILIANA SARMENTO FERREIRA",
     "regional": "DRE - BELEM 1"
   },
@@ -12526,12 +12502,6 @@
     "municipio": "BELÉM",
     "escolas": "EEEIFM BRIGADEIRO FONTENELLE",
     "regional": "DRE - BELEM 5"
-  },
-  {
-    "uf": "PA",
-    "municipio": "BELÉM",
-    "escolas": "EEEIF PROF ANTONIO GOMES MOREIRA JUNIOR",
-    "regional": "DRE - BELEM 1"
   },
   {
     "uf": "PA",
@@ -12704,13 +12674,13 @@
   {
     "uf": "PA",
     "municipio": "CAMETÁ",
-    "escolas": "EEEM ABRAAO SIMAO JATENE",
+    "escolas": "EE JULIA PASSARINHO",
     "regional": "DRE - CAMETA"
   },
   {
     "uf": "PA",
     "municipio": "CAMETÁ",
-    "escolas": "EE JULIA PASSARINHO",
+    "escolas": "EEEM ABRAAO SIMAO JATENE",
     "regional": "DRE - CAMETA"
   },
   {
@@ -13370,18 +13340,6 @@
   {
     "uf": "PA",
     "municipio": "SANTARÉM",
-    "escolas": "EEEFM FELISBELO JAGUAR SUSSUARANA",
-    "regional": "DRE - SANTAREM"
-  },
-  {
-    "uf": "PA",
-    "municipio": "SANTARÉM",
-    "escolas": "EEEFM NOSSA SENHORA APARECIDA",
-    "regional": "DRE - SANTAREM"
-  },
-  {
-    "uf": "PA",
-    "municipio": "SANTARÉM",
     "escolas": "EEEFM  ONESIMA PEREIRA DE BARROS",
     "regional": "DRE - SANTAREM"
   },
@@ -13389,6 +13347,18 @@
     "uf": "PA",
     "municipio": "SANTARÉM",
     "escolas": "EEEFM ANTONIO BATISTA BELO DE CARVALHO",
+    "regional": "DRE - SANTAREM"
+  },
+  {
+    "uf": "PA",
+    "municipio": "SANTARÉM",
+    "escolas": "EEEFM FELISBELO JAGUAR SUSSUARANA",
+    "regional": "DRE - SANTAREM"
+  },
+  {
+    "uf": "PA",
+    "municipio": "SANTARÉM",
+    "escolas": "EEEFM NOSSA SENHORA APARECIDA",
     "regional": "DRE - SANTAREM"
   },
   {
@@ -17516,6 +17486,12 @@
   {
     "uf": "PE",
     "municipio": "PETROLINA",
+    "escolas": "EMETI RUBEM AMORIM",
+    "regional": null
+  },
+  {
+    "uf": "PE",
+    "municipio": "PETROLINA",
     "escolas": "EMETI SÃO DOMINGOS SÁVIO",
     "regional": null
   },
@@ -17523,12 +17499,6 @@
     "uf": "PE",
     "municipio": "PETROLINA",
     "escolas": "EMETI SIRLÂNEA",
-    "regional": null
-  },
-  {
-    "uf": "PE",
-    "municipio": "PETROLINA",
-    "escolas": "EMETI RUBEM AMORIM",
     "regional": null
   },
   {
